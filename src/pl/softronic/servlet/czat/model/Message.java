@@ -1,9 +1,6 @@
 package pl.softronic.servlet.czat.model;
 
-import java.lang.reflect.Method;
-import java.util.ArrayList;
 import java.util.Date;
-import java.util.List;
 
 import pl.softronic.servlet.czat.util.Constants;
 
